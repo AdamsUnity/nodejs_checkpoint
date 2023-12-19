@@ -1,0 +1,16 @@
+{
+  "name": "first_node_js-checkpoint",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000j\u0000s\u0000_\u0000c\u0000h\u0000e\u0000c\u0000k\u0000p\u0000o\u0000i\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.1",
+    "nodemailer": "^6.9.7"
+  }
+}
